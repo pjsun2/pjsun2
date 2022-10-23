@@ -1,6 +1,3 @@
-# 안녕하세요 박재선입니다.
-- 저는 DMU AI학과에 재학중이고 22학번입니다.
-- 유튜브 채널도 운영하고 있고, 가치를 올리기 위해 노력중입니다.
 <!-- ### Hi there 👋-->
 
 <!--
@@ -21,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <br/>
-  <h3> 💜 Hello, I'm sohyeon 💜 </h3> 
+  <h2> Hello, I'm JaeSun </h2> 
   
    <!--방문자 수 집계-->
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnownuu&count_bg=%23DFB7FA&title_bg=%23FAA8A8&icon=&icon_color=%23F6A7A7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
