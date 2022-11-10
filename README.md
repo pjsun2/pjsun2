@@ -1,20 +1,4 @@
-<!-- ### Hi there 👋-->
-
-<!--
-**nownuu/nownuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=DEF8FF&height=160&section=header&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=67C5FF&height=160&section=header&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
 
 <div align="center">
 <br/>
@@ -71,7 +55,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=FFB4B4&height=130&section=footer&fontSize=90)
-
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=160&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
 
