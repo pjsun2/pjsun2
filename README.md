@@ -74,7 +74,4 @@ Here are some ideas to get you started:
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=FFB4B4&height=130&section=footer&fontSize=90)
 
   
-배지는 https://shields.io/
--> 아이콘은 https://simpleicons.org/
-  https://madplay.github.io/post/design-github-profile-using-readme-md
-  https://fernando.kr/develop/2020-05-02-github-gist-posting/
+
