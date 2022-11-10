@@ -55,5 +55,5 @@
   <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=160&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
 
