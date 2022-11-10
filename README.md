@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=WeChat&logoColor=white"/>  
 
-
+https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA
 
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
