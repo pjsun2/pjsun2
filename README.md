@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=DEF8FF&height=160&section=header&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=DEF8FF&height=160&section=header&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
 
 <div align="center">
 <br/>
