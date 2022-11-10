@@ -56,5 +56,9 @@
 
 https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA
 
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 8°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>07:28</b> and sets at <b>15:34</b>.</p>
+<h3>Where to find me</h3>
+<p>
+
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
