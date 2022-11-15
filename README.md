@@ -39,6 +39,7 @@ Content 2 | Content 4
 git push 연습
    
 [Naver](http://www.naver.com "네이버")
+[YOUTUBE](https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA "유튜브")
  
    ```javascript
 function test() {
