@@ -50,5 +50,7 @@ function test() {
    - [x] this is a complete item
 - [ ] this is an incomplete item
    
+   [OSS_REPORT](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS)
+   
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
