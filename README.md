@@ -12,12 +12,12 @@
  <div align="left">
   
 ### :page_facing_up: CAREER<br/>
-   - :school: **Suwon Technical High School**  |  2014 ~ 2016
-   - :office: **Yura Corporation**  |  2016 ~ 2018
-   - :ship: **Navy 2nd Fleet**  |  2018 ~ 2020
-   - :balloon: **Everland**  |  2020 ~ 2021
-   - :school: **Department of Artificial Intelligence, Dongyang Mirae University**  |  _2022 ~ing_
-   - :icecream: **Baskin Robbins**  |  _2022 ~ing_
+   - :school: **Suwon Technical High School**   「2014 ~ 2016」
+   - :office: **Yura Corporation**    「2016 ~ 2018」
+   - :ship: **Navy 2nd Fleet**    「2018 ~ 2020」
+   - :balloon: **Everland**   「2020 ~ 2021」
+   - :school: **Department of Artificial Intelligence, Dongyang Mirae University**  |  「_2022 ~ing_」
+   - :icecream: **Baskin Robbins**   「_2022 ~ing_」
    
    링크 이미지
 ![alt text](image_URL)
