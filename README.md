@@ -8,18 +8,16 @@
   
    <!--방문자 수 집계-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjsun2&count_bg=%23BFE1FF&title_bg=%2332B9FF&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
  <div align="left">
   
-  |무|엇|을|
-  |:--:|:--:|:--:|
-  |?|?|?|
-   
-<details><summary>CLICK ME</summary>
-```
-pythonprint("hello world!")
-```
-</details>
+### :page_facing_up: CAREER<br/>
+   - :school: **Suwon Technical High School**  |  2014 ~ 2016
+   - :office: **Yura Corporation**  |  2016 ~ 2018
+   - :ship: **Navy 2nd Fleet**  |  2018 ~ 2020
+   - :balloon: **Everland**  |  2020 ~ 2021
+   - :school: **Department of Artificial Intelligence, Dongyang Mirae University**  |  _2022 ~ing_
+   - :icecream: **Baskin Robbins**  |  _2022 ~ing_
    
    링크 이미지
 ![alt text](image_URL)
