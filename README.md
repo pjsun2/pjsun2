@@ -18,7 +18,7 @@
    - :balloon: [**Everland**](https://www.everland.com/web/everland/main.html)   「2020 ~ 2021」
    - :school: [**Department of Artificial Intelligence, Dongyang Mirae University**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)  |  「_2022 ~ing_」
    - :icecream: [**Baskin Robbins**](http://www.baskinrobbins.co.kr/)   「_2022 ~ing_」
-   - :mega: **Ambassador of Dongyang Future University** 「_2022 ~ing_」
+   - :mega: [**Ambassador of Dongyang Future University**](https://www.dongyang.ac.kr/dongyang/2497/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZG9uZ3lhbmclMkYzODglMkYxMjA2NDIlMkZhcnRjbFZpZXcuZG8lM0Y%3D) 「_2022 ~ing_」
    
    링크 이미지
 ![alt text](image_URL)
