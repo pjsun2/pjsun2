@@ -62,12 +62,6 @@
   </tbody>
 </table>
 
-<br><br><br><br><br>
-   
-   링크 이미지
-![alt text](image_URL)
-   
-#   테이블 생성
 Header 1 | Header 2
 --------- | ---------
 Content 1 | Content 3
