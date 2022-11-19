@@ -68,14 +68,6 @@ git push 연습
 [Naver](http://www.naver.com "네이버")
 [YOUTUBE](https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA "유튜브")
  
-   ```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-  
-   - [x] this is a complete item
-- [ ] this is an incomplete item
    
    [OSS_REPORT](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS)
    
