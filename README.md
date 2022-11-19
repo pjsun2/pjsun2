@@ -61,15 +61,5 @@
     </tr>
   </tbody>
 </table>
-
-
-git push 연습
-   
-[Naver](http://www.naver.com "네이버")
-[YOUTUBE](https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA "유튜브")
- 
-   
-   [OSS_REPORT](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS)
-   
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
