@@ -31,7 +31,7 @@
    - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023 ~ing_」
    
 ### :page_facing_up: My posts
-- [**OSS 교과목 정리**]() <br>
+- [**OSS 교과목 정리**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/GIT%20%EA%B5%90%EA%B3%BC%EC%84%9C%20%EC%A0%95%EB%A6%AC) <br>
 <i>OSS 교과목 수업 내용을 정리했습니다.</i>
 - [**마크다운 사용법**]() <br>
 <i>마크다운 태그와 사용법을 알 수 있습니다.</i>
