@@ -33,9 +33,9 @@
 ### :page_facing_up: My posts
 - [**OSS 교과목 정리**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/GIT%20%EA%B5%90%EA%B3%BC%EC%84%9C%20%EC%A0%95%EB%A6%AC) <br>
 <i>OSS 교과목 수업 내용을 정리했습니다.</i>
-- [**마크다운 사용법**]() <br>
+- [**마크다운 사용법**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%ED%83%9C%EA%B7%B8%EC%99%80%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95) <br>
 <i>마크다운 태그와 사용법을 알 수 있습니다.</i>
-- [**Cheet Sheet**]() <br>
+- [**Cheet Sheet**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/Cheat%20Sheet) <br>
 <i>Cheet Sheet의 관해 요약했습니다.</i>
 
 <p>
