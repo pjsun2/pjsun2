@@ -31,6 +31,8 @@
    - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023 ~ing_」
    
 ### :page_facing_up: My posts
+- [**OSS 개인 과재**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS) <br>
+<i>OSS 개인과제 정리본입니다..</i>
 - [**OSS 교과목 정리**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/GIT%20%EA%B5%90%EA%B3%BC%EC%84%9C%20%EC%A0%95%EB%A6%AC) <br>
 <i>OSS 교과목 수업 내용을 정리했습니다.</i>
 - [**마크다운 사용법**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%ED%83%9C%EA%B7%B8%EC%99%80%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95) <br>
