@@ -18,8 +18,7 @@
 |:--:|:--:|
 |**Tools**|<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>|
 |**Tech**|<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>|
-|**Study**|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat&logo=Java&logoColor=white"/>|
-
+|**Study**|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 ### :page_facing_up: CAREER<br/>
    - :school: [**Suwon Technical High School**](https://sugong.org/)   「2014 ~ 2016」
    - :office: [**Yura Corporation**](https://www.yuracorp.co.kr/index.jsp)    「2016 ~ 2018」
