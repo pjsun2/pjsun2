@@ -30,43 +30,10 @@
    - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023 ~ing_」
    
 ### :page_facing_up: My posts
-- [**OSS 개인 과재**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS) <br>
-<i>OSS 개인과제 정리본입니다..</i>
-- [**OSS 교과목 정리**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/GIT%20%EA%B5%90%EA%B3%BC%EC%84%9C%20%EC%A0%95%EB%A6%AC) <br>
-<i>OSS 교과목 수업 내용을 정리했습니다.</i>
 - [**마크다운 사용법**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%ED%83%9C%EA%B7%B8%EC%99%80%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95) <br>
 <i>마크다운 태그와 사용법을 알 수 있습니다.</i>
 - [**Cheet Sheet**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/Cheat%20Sheet) <br>
 <i>Cheet Sheet의 관해 요약했습니다.</i>
 
-<p>
-  <h3>
-    :movie_camera: JS25
-     <a href="https://www.youtube.com/channel/UCwAwyhUdacPiRg4-3DP5WhA">
-     <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="20px" />
-    </a>
-  </h3>
-<p>
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/watch?v=pN5bLFskdzc&t=472s" title="코로나 감옥 일기">
-          <img align="center" src="https://user-images.githubusercontent.com/105197546/202339068-5a6cdfff-4002-4817-80f6-ee02c3bedc67.jpg" width="300" alt-text="React Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=yg-xkN590U8&t=22s" title="코로나 방학 일기">
-          <img align="center" src="https://user-images.githubusercontent.com/105197546/202338963-82a63eca-eeb7-4c63-a6df-20ecb7518447.jpg" width="300" alt-text="TypeScript Course">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/watch?v=OlOu7pXHIMk&t=320s" title="💒 동양미래대학교 VLOG 1편">
-          <img align="center" src="https://user-images.githubusercontent.com/105197546/202338553-a5608015-1b41-4e86-8bff-b7e0dc38dea5.png" width="300" alt-text="NodeJS Course">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
