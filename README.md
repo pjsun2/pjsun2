@@ -25,9 +25,11 @@
    - :ship: [**Navy 2nd Fleet**](https://www.navy.mil.kr/mbshome/mbs/navy/index.do)    「2018 ~ 2020」
    - :balloon: [**Everland**](https://www.everland.com/web/everland/main.html)   「2020 ~ 2021」
    - :school: [**Department of Artificial Intelligence, Dongyang Mirae University**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)  |  「_2022 ~ing_」
-   - :icecream: [**Baskin Robbins**](http://www.baskinrobbins.co.kr/)   「_2022 ~ing_」
-   - :mega: [**Ambassador of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/2497/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZG9uZ3lhbmclMkYzODglMkYxMjA2NDIlMkZhcnRjbFZpZXcuZG8lM0Y%3D) 「_2022 ~ing_」
-   - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023 ~ing_」
+   - :icecream: [**Baskin Robbins**](http://www.baskinrobbins.co.kr/)   「_2022 ~ 2023_」
+   - :mega: [**Ambassador of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/2497/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZG9uZ3lhbmclMkYzODglMkYxMjA2NDIlMkZhcnRjbFZpZXcuZG8lM0Y%3D) 「_2022 ~ 2023_」
+   - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023_」
+   - :books: [**President of the Club Union of DongYangnMirae University**](https://www.dongyang.ac.kr/dongyang/140/subview.do) 「_2024_」
+   - :mega: [**Ambassador of Dongyang Mirae University '동미랑'**](https://www.instagram.com/dongmirang_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 「_2024_」
    
 ### :page_facing_up: My posts
 - [**마크다운 사용법**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%ED%83%9C%EA%B7%B8%EC%99%80%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95) <br>
