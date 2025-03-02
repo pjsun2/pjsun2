@@ -14,9 +14,9 @@
 
 ### Things I use with <br>
 
-|Language|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> |
+|Language|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>|
 |:--:|:--:|
-|**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> |
+|**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/>|
 |**Library**| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OPENAI&logoColor=white"/>|
 
 ### :page_facing_up: CAREER<br/>
@@ -31,11 +31,6 @@
    - :books: [**President of the Club Union of DongYangnMirae University**](https://www.dongyang.ac.kr/dongyang/140/subview.do) 「_2024_」
    - :mega: [**Ambassador of Dongyang Mirae University '동미랑'**](https://www.instagram.com/dongmirang_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 「_2024_」
    
-### :page_facing_up: My posts
-- [**마크다운 사용법**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%ED%83%9C%EA%B7%B8%EC%99%80%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95) <br>
-<i>마크다운 태그와 사용법을 알 수 있습니다.</i>
-- [**Cheet Sheet**](https://github.com/pjsun2/DMU_Lecture/tree/main/OSS/Cheat%20Sheet) <br>
-<i>Cheet Sheet의 관해 요약했습니다.</i>
 
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
