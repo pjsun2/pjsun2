@@ -19,25 +19,26 @@
 |**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/>|
 |**Library**| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OPENAI&logoColor=white"/>|
 ### :page_facing_up: WORK<br/>
-   - :hospital: [**수원이안과 기획팀**]「2025~」
-   - :icecream: [**배스킨라빈스**]「2022~2023」
-   - :balloon: [**에버랜드 스낵A**]「2020~2021」
-   - :office: [**유라코퍼레이션 시험평가팀**]「2016~2018」
-   - 
+   - :hospital: **수원이안과 기획팀**「2025~」
+   - :icecream: **배스킨라빈스**「2022~2023」
+   - :balloon: **에버랜드 스낵A**「2020~2021」
+   - :office: **유라코퍼레이션 시험평가팀**「2016~2018」
+
 ### :page_facing_up: CAREER<br/>
-   - :school: [**동양미래대학교 AI·SW학과 학사**]「2025~」
-   - :books: [**DMU 미디어 콘텐츠 동아리 'DAmi' 회장**]「2023~2024」
-   - :books: [**동양미래대학교 바른소리 대의원회**]「2023」
-   - :mega: [**동양미래대학교 홍보대사 '동미랑'**]「2022 ~ 2024」
-   - :school: [**동양미래대학교 AI·SW학과 전문학사**]「2022~2025」
-   - :ship: [**해군 2함대 PKG**]「2018 ~ 2020」
-   - :school: [**수원공고 기계과 졸업**]「2014 ~ 2016」
+   - :school: **동양미래대학교 AI·SW학과 학사**「2025~」
+   - :books: **DMU 미디어 콘텐츠 동아리 'DAmi' 회장**「2023~2024」
+   - :books: **동양미래대학교 바른소리 대의원회**「2023」
+   - :mega: **동양미래대학교 홍보대사 '동미랑'**「2022 ~ 2024」
+   - :school: **동양미래대학교 AI·SW학과 전문학사**「2022~2025」
+   - :ship: **해군 2함대 PKG**「2018 ~ 2020」
+   - :school: **수원공고 기계과 졸업**「2014 ~ 2016」
 
-
-
-
-
-
+### :page_facing_up: ACTIVITY<br/>
+   - 📙 **가족소통 플랫폼**()
+   - 📙 **장려상) 공공 빅데이터 활용 비즈니스 아이디어_장려상**
+   - 📙 **최우수상) 인공지능 아이디어 경진대회**
+   - 📙 **최우수상) 깃허브 저장소 구축 경진대회**
+   - 📙 **장려상) 데이터분석경진대회**
 
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
