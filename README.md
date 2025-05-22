@@ -18,19 +18,18 @@
 |:--:|:--:|
 |**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/>|
 |**Library**| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OPENAI&logoColor=white"/>|
-
-### :page_facing_up: CAREER<br/>
-   - :school: [**Suwon Technical High School**](https://sugong.org/)   「2014 ~ 2016」
-   - :office: [**Yura Corporation**](https://www.yuracorp.co.kr/index.jsp)    「2016 ~ 2018」
-   - :ship: [**Navy 2nd Fleet**](https://www.navy.mil.kr/mbshome/mbs/navy/index.do)    「2018 ~ 2020」
-   - :balloon: [**Everland**](https://www.everland.com/web/everland/main.html)   「2020 ~ 2021」
-   - :school: [**Department of Artificial Intelligence, Dongyang Mirae University**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)  |  「_2022 ~ing_」
-   - :icecream: [**Baskin Robbins**](http://www.baskinrobbins.co.kr/)   「_2022 ~ 2023_」
-   - :mega: [**Ambassador of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/2497/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZG9uZ3lhbmclMkYzODglMkYxMjA2NDIlMkZhcnRjbFZpZXcuZG8lM0Y%3D) 「_2022 ~ 2023_」
-   - :books: [**Vice Chairman of Dongyang Mirae University**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「_2023_」
-   - :books: [**President of the Club Union of DongYangnMirae University**](https://www.dongyang.ac.kr/dongyang/140/subview.do) 「_2024_」
-   - :mega: [**Ambassador of Dongyang Mirae University '동미랑'**](https://www.instagram.com/dongmirang_official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 「_2024_」
-   
+### :page_facing_up: WORK<br/>
+   - :office: [**유라코퍼레이션**](https://www.yuracorp.co.kr/index.jsp)    「2016 ~ 2018」
+   - :balloon: [**에버랜드**](https://www.everland.com/web/everland/main.html)   「2020 ~ 2021」
+   - :icecream: [**배스킨라빈스**](http://www.baskinrobbins.co.kr/)   「2022 ~ 2023」
+   - :hospital: [**수원이안과**](www.119eye.com)「2025 ~」
+### :page_facing_up: ACTIVITY<br/>
+   - :school: [**수원공고**](https://sugong.org/)   「2014 ~ 2016」
+   - :ship: [**해군 2함대 PKG**](https://www.navy.mil.kr/mbshome/mbs/navy/index.do)    「2018 ~ 2020」
+   - :school: [**동양미래대학교 AI·SW학과 입학**](https://www.dongyang.ac.kr/sites/dmu_23259/index.do)  |  「2022」
+   - :mega: [**동양미래대학교 홍보대사 '동미랑'**](https://www.dongyang.ac.kr/dongyang/2497/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZG9uZ3lhbmclMkYzODglMkYxMjA2NDIlMkZhcnRjbFZpZXcuZG8lM0Y%3D) 「2022 ~ 2024」
+   - :books: [**동양미래대학교 바른소리 대의원회**](https://www.dongyang.ac.kr/dongyang/138/subview.do) 「2023」
+   - :books: [**DMU 미디어 콘텐츠 동아리 회장**](https://www.dongyang.ac.kr/dongyang/140/subview.do) 「2023~2024
 
    <!--끝--!>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
