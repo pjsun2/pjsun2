@@ -19,12 +19,12 @@
 |**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/>|
 |**Library**| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OPENAI&logoColor=white"/>|
 ### :page_facing_up: WORK<br/>
-   - :hospital: [**수원이안과 기획팀**]「2025 ~」
-   - :icecream: [**배스킨라빈스**]「2022 ~ 2023」
-   - :balloon: [**에버랜드 스낵A**]「2020 ~ 2021」
-   - :office: [**유라코퍼레이션 시험평가팀**]「2016 ~ 2018」
+   - :hospital: [**수원이안과 기획팀**]「2025~」
+   - :icecream: [**배스킨라빈스**]「2022~2023」
+   - :balloon: [**에버랜드 스낵A**]「2020~2021」
+   - :office: [**유라코퍼레이션 시험평가팀**]「2016~2018」
    - 
-### :page_facing_up: ACTIVITY<br/>
+### :page_facing_up: CAREER<br/>
    - :school: [**동양미래대학교 AI·SW학과 학사**]「2025~」
    - :books: [**DMU 미디어 콘텐츠 동아리 'DAmi' 회장**]「2023~2024」
    - :books: [**동양미래대학교 바른소리 대의원회**]「2023」
