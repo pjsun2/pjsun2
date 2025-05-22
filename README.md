@@ -11,10 +11,11 @@
 
 ### Things I use with <br>
 
-|Language|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>|
-|:--:|:--:|
-|**Tools**| <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VS Code&logoColor=white"/>|
-|**Library**| <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OPENAI&logoColor=white"/>|
+| Language | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> |
+|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Tools** | <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=Cursor&logoColor=white"/> |
+| **Library** | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black"/> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat&logo=Google&logoColor=white"/> |
+
 ### :page_facing_up: WORK<br/>
    - :hospital: **수원이안과 기획팀**「2025~」
    - :icecream: **배스킨라빈스**「2022~2023」
