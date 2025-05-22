@@ -34,7 +34,7 @@
 ### :page_facing_up: ACTIVITY<br/>
    - 📙 **객체 탐지 XR 쇼핑 결제 시스템** / [바로가기](https://github.com/pjsun2/CV/tree/main/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D%20%EA%B8%B0%EB%B0%98%20XR%20%EC%87%BC%ED%95%91%20%EA%B2%B0%EC%A0%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
    - 📙 **3D 메쉬를 이용한 가상 피팅 기술** / [바로가기]()
-   - 📙 **MEGA 논문 분석** / [바로가기]()
+   - 📙 **MEGA 논문 분석** / [바로가기](https://github.com/pjsun2/CV/tree/main/MEGA%20%EB%85%BC%EB%AC%B8%20%EB%B6%84%EC%84%9D)
    - 📙 **텍스트 마이닝 COLAB** / [바로가기]()
    - 📙 **도로명주소 지번주소 예측기** / [바로가기]()
    - 📙 **가족소통 플랫폼** / [바로가기](https://github.com/pjsun2/WGA_Project)
